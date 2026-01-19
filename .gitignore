@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Build artifacts from VS Code tasks
+jspwTest
+jspwTest.exe
+jspwTest.cpp
+input.txt
+output.txt
