@@ -1,0 +1,21 @@
+{
+  "name": "RailSheba Premium",
+  "short_name": "RailSheba",
+  "description": "Premium Bangladesh Railway Ticketing Experience",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#10b981",
+  "icons": [
+    {
+      "src": "https://api.dicebear.com/7.x/initials/svg?seed=RS&backgroundColor=10b981&fontFamily=Arial&fontWeight=800",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "https://api.dicebear.com/7.x/initials/svg?seed=RS&backgroundColor=10b981&fontFamily=Arial&fontWeight=800",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}

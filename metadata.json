@@ -1,0 +1,7 @@
+{
+  "name": "RailSheba Premium",
+  "description": "A high-end Bangladesh Railway ticket booking experience featuring glassmorphism UI, real-time search, and premium travel aesthetics.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
