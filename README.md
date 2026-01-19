@@ -1,7 +1,8 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+
 
 # RailSheba Premium
+
 ### The Gold Standard of Train Travel in Bangladesh
 
 [![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
@@ -34,17 +35,20 @@
 ### Installation
 
 1.  **Clone the repository:**
+
     ```bash
     git clone https://github.com/codewithtanvir/railsheba-premium.git
     cd railsheba-premium
     ```
 
 2.  **Install dependencies:**
+
     ```bash
     npm install
     ```
 
 3.  **Run the development server:**
+
     ```bash
     npm run dev
     ```
